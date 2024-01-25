@@ -6,7 +6,7 @@
     "Registros": 1200,
     "UGEL": "UGEL Atalaya",
     "Periodo": "202441",
-    "Iniciar": 20
+    "Iniciar": 21
   },
   {
     "id": 2,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "Usuario": "Sofia",
-    "MAC": "8A:13:DE:3D:AF:F7",
+    "MAC": "8A:13:DE:3D:AF:aa",
     "Registros": 51,
     "UGEL": "UGEL Coronel Portillo",
     "Periodo": "202421",
