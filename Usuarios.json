@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "Usuario": "Edwin ME",
+    "Usuario": "Edwin Mendez Echevarria",
     "MAC": "40:80:00:01:02:04",
-    "Registros": 11,
-    "UGEL": "UGEL Atalaya"
+    "Registros": 12000,
+    "UGEL": "UGEL Atalaya test"
   },
   {
     "id": 2,
