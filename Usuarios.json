@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "Usuario": "Edwin ME",
+    "MAC": "8A:13:DE:3D:AF:F5",
+    "Registros": 1501,
+    "UGEL": "UGEL Atalaya"
+  },
+  {
+    "id": 2,
+    "Usuario": "Diana GA",
+    "MAC": "8A:13:DE:3D:AF:F5",
+    "Registros": 1501,
+    "UGEL": "UGEL Atalaya"
+  },
+  {
+    "id": 3,
+    "Usuario": "Sofia",
+    "MAC": "8A:13:DE:3D:BF:F5",
+    "Registros": 51,
+    "UGEL": "UGEL Coronel Portillo"
+  }
+]
