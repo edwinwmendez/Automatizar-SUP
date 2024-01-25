@@ -5,7 +5,8 @@
     "MAC": "40:80:00:01:02:0",
     "Registros": 1200,
     "UGEL": "UGEL Atalaya",
-    "Periodo": "202441"
+    "Periodo": "202441",
+    "Iniciar": 5
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "MAC": "8A:13:DE:3D",
     "Registros": 1501,
     "UGEL": "UGEL Atalaya",
-    "Periodo": "202421"
+    "Periodo": "202421",
+    "Iniciar": 5
   },
   {
     "id": 3,
@@ -21,6 +23,7 @@
     "MAC": "8A:13:DE:3D:AF:F7",
     "Registros": 51,
     "UGEL": "UGEL Coronel Portillo",
-    "Periodo": "202421"
+    "Periodo": "202421",
+    "Iniciar": 5
   }
 ]
