@@ -4,7 +4,7 @@
     "Usuario": "Edwin Mendez Echevarria",
     "MAC": "40:80:00:01:02:04",
     "Registros": 12000,
-    "UGEL": "UGEL Atalaya test"
+    "UGEL": "UGEL Atalaya test",
     "Periodo": "202421"
   },
   {
@@ -12,7 +12,7 @@
     "Usuario": "Diana GA",
     "MAC": "8A:13:DE:3D",
     "Registros": 1501,
-    "UGEL": "UGEL Atalaya"
+    "UGEL": "UGEL Atalaya",
     "Periodo": "202421"
   },
   {
@@ -20,7 +20,7 @@
     "Usuario": "Sofia",
     "MAC": "8A:13:DE:3D:AF:F7",
     "Registros": 51,
-    "UGEL": "UGEL Coronel Portillo"
+    "UGEL": "UGEL Coronel Portillo",
     "Periodo": "202421"
   }
 ]
