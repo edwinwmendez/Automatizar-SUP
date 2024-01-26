@@ -28,11 +28,29 @@
   },
   {
     "id": 4,
-    "Usuario": "Winny",
+    "Usuario": "Rocio",
     "MAC": "3c:78:f1:e3:c7:88",
-    "Registros": 101,
-    "UGEL": "UGEL Coronel Portillo",
+    "Registros": 501,
+    "UGEL": "UGEL Tocache",
     "Periodo": "202441",
     "Iniciar": 5
+  },
+  {
+    "id": 5,
+    "Usuario": "Rocio",
+    "MAC": "3c:78:f1:e3:c7:88",
+    "Registros": 501,
+    "UGEL": "UGEL Leoncio Prado",
+    "Periodo": "202441",
+    "Iniciar": 5
+  },
+  {
+    "id": 6,
+    "Usuario": "Liz",
+    "MAC": "9a:34:69:d3:a6:4d",
+    "Registros": 501,
+    "UGEL": "UGEL La Convención",
+    "Periodo": "202441",
+    "Iniciar": 10
   }
 ]
