@@ -20,8 +20,17 @@
   {
     "id": 3,
     "Usuario": "Katty Díaz López",
-    "MAC": "8A:13:DE:3D:AF:aa",
-    "Registros": 51,
+    "MAC": "3c:78:f1:e3:c7:8e",
+    "Registros": 101,
+    "UGEL": "UGEL Coronel Portillo",
+    "Periodo": "202441",
+    "Iniciar": 5
+  },
+  {
+    "id": 4,
+    "Usuario": "Winny",
+    "MAC": "3c:78:f1:e3:c7:88",
+    "Registros": 101,
     "UGEL": "UGEL Coronel Portillo",
     "Periodo": "202441",
     "Iniciar": 5
