@@ -115,5 +115,14 @@
     "UGEL": "DRE Ica",
     "Periodo": "202441",
     "Iniciar": 5
+  },
+  {
+    "id": 14,
+    "Usuario": "David Ramirez",
+    "MAC": "00:00:00:01:03:07",
+    "Registros": 4000,
+    "UGEL": "UGEL Oxapampa",
+    "Periodo": "202441",
+    "Iniciar": 5
   }
 ]
