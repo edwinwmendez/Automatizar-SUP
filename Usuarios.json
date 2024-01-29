@@ -61,5 +61,14 @@
     "UGEL": "UGEL Coronel Portillo II",
     "Periodo": "202441",
     "Iniciar": 5
+  },
+  {
+    "id": 8,
+    "Usuario": "Jeancarlo Fernández",
+    "MAC": "a5:4b:97:2e:5c:b9",
+    "Registros": 4000,
+    "UGEL": "Ugel Rioja",
+    "Periodo": "202441",
+    "Iniciar": 5
   }
 ]
