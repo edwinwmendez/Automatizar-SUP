@@ -97,5 +97,14 @@
     "UGEL": "UGEL San Ignacio",
     "Periodo": "202421",
     "Iniciar": 5
+  }, 
+  {
+    "id": 12,
+    "Usuario": "Luis Tasilla",
+    "MAC": "78:f0:e0:c1:82:04",
+    "Registros": 4000,
+    "UGEL": "UGEL Cajamarca",
+    "Periodo": "202421",
+    "Iniciar": 5
   } 
 ]
