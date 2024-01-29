@@ -97,7 +97,7 @@
     "UGEL": "UGEL San Ignacio",
     "Periodo": "202421",
     "Iniciar": 5
-  }, 
+  },
   {
     "id": 12,
     "Usuario": "Luis Tasilla",
@@ -106,5 +106,14 @@
     "UGEL": "UGEL Cajamarca",
     "Periodo": "202421",
     "Iniciar": 5
-  } 
+  },
+  {
+    "id": 13,
+    "Usuario": "Eddy Ccaihuari",
+    "MAC": "61:c3:87:0f:1e:3d",
+    "Registros": 4000,
+    "UGEL": "DRE Ica",
+    "Periodo": "202441",
+    "Iniciar": 5
+  }
 ]
