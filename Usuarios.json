@@ -6,7 +6,7 @@
     "Registros": 1200,
     "UGEL": "UGEL Atalaya",
     "Periodo": "202441",
-    "Iniciar": 21
+    "Iniciar": 5
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "Registros": 1501,
     "UGEL": "UGEL Atalaya",
     "Periodo": "202441",
-    "Iniciar": 25
+    "Iniciar": 5
   },
   {
     "id": 3,
@@ -88,5 +88,14 @@
     "UGEL": "UGEL Quispicanchi",
     "Periodo": "202421",
     "Iniciar": 5
-  }
+  }, 
+  {
+    "id": 11,
+    "Usuario": "Percy Saavedra",
+    "MAC": "32:64:c8:90:20:41",
+    "Registros": 4000,
+    "UGEL": "UGEL San Ignacio",
+    "Periodo": "202421",
+    "Iniciar": 5
+  } 
 ]
