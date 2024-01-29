@@ -70,5 +70,14 @@
     "UGEL": "Ugel Rioja",
     "Periodo": "202441",
     "Iniciar": 5
+  },
+  {
+    "id": 9,
+    "Usuario": "Tony iparraguirre",
+    "MAC": "cc:99:33:66:cc:98",
+    "Registros": 1000,
+    "UGEL": "UGEL Cajabamba",
+    "Periodo": "202421",
+    "Iniciar": 5
   }
 ]
