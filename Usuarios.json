@@ -73,10 +73,19 @@
   },
   {
     "id": 9,
-    "Usuario": "Tony iparraguirre",
+    "Usuario": "Tony Iparraguirre",
     "MAC": "cc:99:33:66:cc:98",
     "Registros": 1000,
     "UGEL": "UGEL Cajabamba",
+    "Periodo": "202421",
+    "Iniciar": 5
+  },
+  {
+    "id": 10,
+    "Usuario": "Kevin Pineda",
+    "MAC": "00:00:00:00:00:01",
+    "Registros": 4000,
+    "UGEL": "UGEL Quispicanchi",
     "Periodo": "202421",
     "Iniciar": 5
   }
