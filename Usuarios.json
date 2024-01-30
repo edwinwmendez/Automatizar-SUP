@@ -124,5 +124,14 @@
     "UGEL": "UGEL Oxapampa",
     "Periodo": "202441",
     "Iniciar": 5
+  },
+  {
+    "id": 15,
+    "Usuario": "Rome Ygnacio",
+    "MAC": "62:c4:88:11:23:47",
+    "Registros": 3000,
+    "UGEL": "UGEL Cajamarca",
+    "Periodo": "202441",
+    "Iniciar": 5
   }
 ]
