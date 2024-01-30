@@ -139,8 +139,17 @@
     "Usuario": "Rocio",
     "MAC": "a4:49:92:25:4a:95",
     "Registros": 2000,
-    "UGEL": "UGEL Tocahe",
+    "UGEL": "UGEL Tocache",
     "Periodo": "202461",
     "Iniciar": 6
+  },
+  {
+    "id": 17,
+    "Usuario": "Cariza Bazán",
+    "MAC": "73:e7:ce:9c:39:72",
+    "Registros": 2000,
+    "UGEL": "UGEL Celendín",
+    "Periodo": "202461",
+    "Iniciar": 5
   }
 ]
