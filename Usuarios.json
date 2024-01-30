@@ -151,5 +151,14 @@
     "UGEL": "UGEL Celendín",
     "Periodo": "202461",
     "Iniciar": 5
+  },
+  {
+    "id": 18,
+    "Usuario": "Gary Corrales Huaman",
+    "MAC": "9e:3d:7a:f5:eb:d7",
+    "Registros": 2000,
+    "UGEL": "UGEL Cusco",
+    "Periodo": "202441",
+    "Iniciar": 5
   }
 ]
