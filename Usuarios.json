@@ -133,5 +133,14 @@
     "UGEL": "UGEL Cajamarca",
     "Periodo": "202421",
     "Iniciar": 6
+  },
+  {
+    "id": 16,
+    "Usuario": "Rocio",
+    "MAC": "a4:49:92:25:4a:95",
+    "Registros": 2000,
+    "UGEL": "UGEL Tocahe",
+    "Periodo": "202461",
+    "Iniciar": 6
   }
 ]
