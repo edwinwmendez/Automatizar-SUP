@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "UGEL": "UGEL Atalaya"
+    "UGEL": "UGEL Atalaya",
     "Unidad": "Remuneraciones",
     "Responsable": "Edwin W. Mendez Echevarria",
     "MAC": "a6:4d:9a:35:6a:d4",
@@ -20,7 +20,7 @@
   },
   {
     "id": 2,
-    "UGEL": "UGEL Atalaya"
+    "UGEL": "UGEL Atalaya",
     "Unidad": "Remuneraciones",
     "Responsable": "Diana Garcia Aldunate",
     "MAC": "a6:4d:9a:35:6a:d4",
