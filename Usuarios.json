@@ -169,5 +169,14 @@
     "UGEL": "UGEL Cusco",
     "Periodo": "202441",
     "Iniciar": 6
-  } 
+  },
+  {
+    "id": 20,
+    "Usuario": "Irma2",
+    "MAC": "6a:d4:a9:53:a6:4c",
+    "Registros": 3000,
+    "UGEL": "UGEL Cusco",
+    "Periodo": "202441",
+    "Iniciar": 6
+  }
 ]
