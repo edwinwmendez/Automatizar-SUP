@@ -1,8 +1,28 @@
 [
   {
     "id": 1,
+    "UGEL": "UGEL Atalaya"
     "Unidad": "Remuneraciones",
     "Responsable": "Edwin W. Mendez Echevarria",
+    "MAC": "a6:4d:9a:35:6a:d4",
+    "Mensaje": 
+     [
+      "Si puedes soñarlo, puedes hacerlo",
+      "Pierde el miedo para que no pierdas Oportunidades",
+      "Nunca pares de aprender.",
+      "Aprende algo nuevo todos los dias.",
+      "Eres el Mejor.",
+      "Tu puedes Campeón.",
+      "No cuentes los días, haz que los días cuenten.",
+      "El mejor momento del día es ahora.",
+      "Piensa, sueña, cree y atrévete.",
+     ]
+  },
+  {
+    "id": 2,
+    "UGEL": "UGEL Atalaya"
+    "Unidad": "Remuneraciones",
+    "Responsable": "Diana Garcia Aldunate",
     "MAC": "a6:4d:9a:35:6a:d4",
     "Mensaje": 
      [
