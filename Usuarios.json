@@ -187,5 +187,14 @@
     "UGEL": "UGEL Ventanilla",
     "Periodo": "202422",
     "Iniciar": 10
+  },
+  {
+    "id": 22,
+    "Usuario": "Carlos H. Acuña M.",
+    "MAC": "fb:f6:ed:db:b6:6c",
+    "Registros": 4000,
+    "UGEL": "UGEL Hualgayoc",
+    "Periodo": "202442",
+    "Iniciar": 10
   }
 ]
