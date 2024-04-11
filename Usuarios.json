@@ -196,5 +196,14 @@
     "UGEL": "UGEL Hualgayoc",
     "Periodo": "202442",
     "Iniciar": 10
+  },
+  {
+    "id": 23,
+    "Usuario": "Jeancarlo Fernández",
+    "MAC": "9f:3f:7f:ff:ff:ff",
+    "Registros": 2000,
+    "UGEL": "Ugel Rioja",
+    "Periodo": "202441",
+    "Iniciar": 5
   }
 ]
