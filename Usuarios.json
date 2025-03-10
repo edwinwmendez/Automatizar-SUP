@@ -2,7 +2,7 @@
   {
     "id": 1,
     "Usuario": "Edwin Mendez Echevarria",
-    "MAC": "40:80:00:01:02:04",
+    "MAC": "40:80:00:01:02:05",
     "Registros": 1200,
     "UGEL": "UGEL Atalaya",
     "Periodo": "202441",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "Usuario": "Diana GA",
-    "MAC": "38:70:e0:c0:80:01",
+    "MAC": "38:70:e0:c0:80:02",
     "Registros": 1501,
     "UGEL": "UGEL Atalaya",
     "Periodo": "202441",
