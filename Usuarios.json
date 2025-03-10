@@ -214,5 +214,14 @@
     "UGEL": "UGEL Solitario",
     "Periodo": "202503",
     "Iniciar": 5
+  },
+  {
+    "id": 25,
+    "Usuario": "Sofia Rios ",
+    "MAC": "f2:e5:ca:94:28:50",
+    "Registros": 4000,
+    "UGEL": "UGEL Coronel Portillo",
+    "Periodo": "202503",
+    "Iniciar": 5
   }
 ]
