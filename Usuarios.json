@@ -21,7 +21,7 @@
     "id": 3,
     "Usuario": "Katty Díaz López",
     "MAC": "3c:78:f1:e3:c7:8e",
-    "Registros": 1,
+    "Registros": 10000,
     "UGEL": "UGEL Coronel Portillo",
     "Periodo": "202461",
     "Iniciar": 5
@@ -57,7 +57,7 @@
     "id": 7,
     "Usuario": "Winny",
     "MAC": "a5:4b:97:2e:5c:b9",
-    "Registros": 4000,
+    "Registros": 1,
     "UGEL": "UGEL Coronel Portillo II",
     "Periodo": "202461",
     "Iniciar": 5
@@ -219,7 +219,7 @@
     "id": 25,
     "Usuario": "Sofia Rios ",
     "MAC": "f2:e5:ca:94:28:50",
-    "Registros": 1,
+    "Registros": 10000,
     "UGEL": "UGEL Coronel Portillo",
     "Periodo": "202503",
     "Iniciar": 5
