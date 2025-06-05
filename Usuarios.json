@@ -241,5 +241,14 @@
     "UGEL": "UGEL ME",
     "Periodo": "202545",
     "Iniciar": 5
+  },
+  {
+    "id": 28,
+    "Usuario": "Edwin Mendez E.",
+    "MAC": "08:10:21:43:86:0d",
+    "Registros": 100000,
+    "UGEL": "UGEL TEST",
+    "Periodo": "202545",
+    "Iniciar": 5
   }
 ]
