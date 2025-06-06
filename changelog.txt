@@ -1,0 +1,25 @@
+# Historial de Cambios
+
+Todas las actualizaciones notables del proyecto se documentarán en este archivo.
+
+El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/).
+
+## [1.0.0] - 2023-06-06
+
+### Añadido
+- Versión inicial de la aplicación
+- Interfaz gráfica principal
+- Funciones de automatización básicas
+
+### Corregido
+- N/A (Versión inicial)
+
+## [1.1.0] - 2023-06-10
+
+### Añadido
+- Sistema de actualización automática
+- Verificación de versión al iniciar
+
+### Corregido
+- Error al procesar algunos tipos de datos
+- Problema de cierre inesperado al usar la función X
